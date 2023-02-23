@@ -7,3 +7,8 @@ remote_state {
     container_name = "tfstate"
   }
 }
+
+inputs = {
+    location = "eastus"
+    resource_group_name = "ABSDemo"
+}
