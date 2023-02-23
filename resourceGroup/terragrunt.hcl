@@ -1,3 +1,3 @@
 include {
-    path = find_in_parent_folder()
+    path = find_in_parent_folders()
 }
